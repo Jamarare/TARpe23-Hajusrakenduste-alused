@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arvutid>
+  <arvuti>
+    <protsessor tootja="AMD" mudel="Ryzen 7 5800X3D" taktisagedus="3.8 GHz" turbo_sagedus="4.7 GHz" tuumade_arv="8" niitide_arv="16"/>
+    <operatiivmälu tootja="Corsair" seeria="Vengeance" tüüp="DDR4" maht="16GB" andmeedastuskiirus="3200 MHz" kanalite_arv="2"/>
+    <salvestusmälu tootja="Samsung" mudel="970 EVO Plus" tüüp="SSD NVMe" maht="2TB" lugemiskiirus="3500 MB/s" kirjutamiskiirus="3300 MB/s"/>
+    <emaplaat tootja="ASUS" mudel="PRIME B550-PLUS" toetab="DDR4" pordid="PCIe 4.0, USB 3.2" vormitegur="ATX"/>
+    <korpus tootja="Lian Li" mudel="O11 EVO RGB" tüübi="Mid Tower" värv="Must" materjal="Alumiinium, klaas"/>
+    <toiteplokk tootja="Seasonic" mudel="Focus GX-650" võimsus="650W" sertifikaat="80 PLUS Gold" modulaarne="Jah"/>
+    <graafikakaart tootja="NVIDIA" mudel="GeForce RTX 3060" mälu="12GB GDDR6" pordid="HDMI, 3x DisplayPort"/>
+    <monitor tootja="LG" mudel="UltraGear 27GN800" resolutsioon="2560x1440" suurus="27" paneeli_tüüp="IPS" värskenduskiirus="144Hz"/>
+    <klaviatuur tootja="Logitech" mudel="G Pro X" tüüp="Mehaaniline" taustvalgus="RGB" ühendus="Juhtmega"/>
+    <hiir tootja="Razer" mudel="DeathAdder V2" dpi="20000" ühendus="Juhtmega" nuppude_arv="8"/>
+    <juhtpult tootja="Microsoft" mudel="Xbox Wireless Controller" ühendus="Bluetooth" aku_kestvus="40h"/>
+    <kõlarid tootja="Logitech" mudel="Z623" võimsus="200W" kanalid="2.1" ühendus="3.5mm, RCA"/>
+    <kõrvaklapid tootja="HyperX" mudel="Cloud II" tüüp="Over-ear" ühendus="Juhtmega" mikrofon="Kaasas"/>
+    <mikrofon tootja="Blue" mudel="Yeti" tüüp="Kondensaator" ühendus="USB" suunamuster="Kardioid"/>
+  </arvuti>
+</arvutid>

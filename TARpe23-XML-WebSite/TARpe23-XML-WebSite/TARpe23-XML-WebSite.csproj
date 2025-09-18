@@ -72,7 +72,13 @@
     <Content Include="autod.xslt" />
     <Content Include="autod1.xslt" />
     <Content Include="autod2.xslt" />
-    <Content Include="autod3.xslt" />
+    <Content Include="autod3.xslt">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="autod4.xslt" />
+    <Content Include="autod5.xslt" />
+    <Content Include="autod6.xslt" />
+    <Content Include="autod7.xslt" />
     <Content Include="inimesed.aspx" />
     <Content Include="inimesed.xml" />
     <Content Include="inimesed.xsl" />

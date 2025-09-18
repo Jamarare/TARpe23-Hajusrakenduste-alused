@@ -18,6 +18,18 @@
         <div>
             <asp:Xml ID="xml4" runat="server" DocumentSource="~/autod.xml" TransformSource="~/autod3.xslt"></asp:Xml>
         </div>
+        <div>
+            <asp:Xml ID="xml5" runat="server" DocumentSource="~/autod.xml" TransformSource="~/autod4.xslt"></asp:Xml>
+        </div>
+        <div>
+            <asp:Xml ID="xml6" runat="server" DocumentSource="~/autod.xml" TransformSource="~/autod5.xslt"></asp:Xml>
+        </div>
+        <div>
+            <asp:Xml ID="xml7" runat="server" DocumentSource="~/autod.xml" TransformSource="~/autod6.xslt"></asp:Xml>
+        </div>
+        <div>
+            <asp:Xml ID="xml8" runat="server" DocumentSource="~/autod.xml" TransformSource="~/autod7.xslt"></asp:Xml>
+        </div>
     </form>
 </body>
 </html>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<inimesed>
+    <inimene>
+        <eesnimi>Juku</eesnimi>
+        <perenimi>Juurikas</perenimi>
+        <synd>1963</synd>
+		<sugu>mees</sugu>
+    </inimene>
+    <inimene>
+        <eesnimi>Juku</eesnimi>
+        <perenimi>Kaalikas</perenimi>
+        <synd>1961</synd>
+		<sugu>mees</sugu>
+    </inimene>
+    <inimene>
+        <eesnimi>Andres</eesnimi>
+        <perenimi>Kalle</perenimi>
+        <synd>1975</synd>
+		<sugu>mees</sugu>
+    </inimene>
+    <inimene>
+        <eesnimi>Mari</eesnimi>
+        <perenimi>Maasikas</perenimi>
+        <synd>1981</synd>
+		<sugu>naine</sugu>
+    </inimene>
+    <inimene>
+        <eesnimi>Oskar</eesnimi>
+        <perenimi>Ohakas</perenimi>
+        <synd>1971</synd>
+		<sugu>mees</sugu>
+    </inimene>
+</inimesed>

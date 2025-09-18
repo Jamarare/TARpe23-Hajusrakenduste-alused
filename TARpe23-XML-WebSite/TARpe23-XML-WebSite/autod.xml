@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<autod>
+	<auto>
+		<reg>123ABC</reg>
+		<perenimi>Juurikas</perenimi>
+	</auto>
+	<auto>
+		<reg>987AHT</reg>
+		<perenimi>Kaalikas</perenimi>
+	</auto>
+	<auto>
+		<reg>456GUY</reg>
+		<perenimi>Kalle</perenimi>
+	</auto>
+	<auto>
+		<reg>001MBT</reg>
+		<perenimi>Maasikas</perenimi>
+	</auto>
+	<auto>
+		<reg>382BTN</reg>
+		<perenimi>Ohakas</perenimi>
+	</auto>
+</autod>

@@ -67,6 +67,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="autod.aspx" />
+    <Content Include="autod.xml" />
+    <Content Include="autod.xslt" />
+    <Content Include="autod1.xslt" />
+    <Content Include="autod2.xslt" />
+    <Content Include="autod3.xslt" />
     <Content Include="inimesed.aspx" />
     <Content Include="inimesed.xml" />
     <Content Include="inimesed.xsl" />
@@ -76,6 +82,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="autod.aspx.cs">
+      <DependentUpon>autod.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="autod.aspx.designer.cs">
+      <DependentUpon>autod.aspx</DependentUpon>
+    </Compile>
     <Compile Include="inimesed.aspx.cs">
       <DependentUpon>inimesed.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

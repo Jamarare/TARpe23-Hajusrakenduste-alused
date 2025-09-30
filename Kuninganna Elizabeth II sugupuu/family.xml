@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family>
+  <person id="1">
+    <name>Elizabeth II</name>
+    <birthYear>1926</birthYear>
+    <parents></parents>
+    <children>2,3,4,5</children>
+  </person>
+  <person id="2">
+    <name>Charles III</name>
+    <birthYear>1948</birthYear>
+    <parents>1</parents>
+    <children>6,7</children>
+  </person>
+  <person id="3">
+    <name>Anne, Princess Royal</name>
+    <birthYear>1950</birthYear>
+    <parents>1</parents>
+    <children>8,9</children>
+  </person>
+  <person id="4">
+    <name>Andrew, Duke of York</name>
+    <birthYear>1960</birthYear>
+    <parents>1</parents>
+    <children>10,11</children>
+  </person>
+  <person id="5">
+    <name>Edward, Earl of Wessex</name>
+    <birthYear>1964</birthYear>
+    <parents>1</parents>
+    <children>12,13</children>
+  </person>
+  <person id="6">
+    <name>William, Prince of Wales</name>
+    <birthYear>1982</birthYear>
+    <parents>2</parents>
+    <children>14,15,16</children>
+  </person>
+  <person id="7">
+    <name>Harry, Duke of Sussex</name>
+    <birthYear>1984</birthYear>
+    <parents>2</parents>
+    <children>17,18</children>
+  </person>
+  <person id="8">
+    <name>Peter Phillips</name>
+    <birthYear>1977</birthYear>
+    <parents>3</parents>
+    <children>19,20</children>
+  </person>
+  <person id="9">
+    <name>Zara Tindall</name>
+    <birthYear>1981</birthYear>
+    <parents>3</parents>
+    <children>21,22,23</children>
+  </person>
+  <person id="10">
+    <name>Princess Beatrice</name>
+    <birthYear>1988</birthYear>
+    <parents>4</parents>
+    <children></children>
+  </person>
+  <person id="11">
+    <name>Princess Eugenie</name>
+    <birthYear>1990</birthYear>
+    <parents>4</parents>
+    <children></children>
+  </person>
+  <person id="12">
+    <name>Lady Louise Mountbatten-Windsor</name>
+    <birthYear>2003</birthYear>
+    <parents>5</parents>
+    <children></children>
+  </person>
+  <person id="13">
+    <name>James, Earl of Wessex</name>
+    <birthYear>2007</birthYear>
+    <parents>5</parents>
+    <children></children>
+  </person>
+  <person id="14">
+    <name>Prince George</name>
+    <birthYear>2013</birthYear>
+    <parents>6</parents>
+    <children></children>
+  </person>
+  <person id="15">
+    <name>Princess Charlotte</name>
+    <birthYear>2015</birthYear>
+    <parents>6</parents>
+    <children></children>
+  </person>
+  <person id="16">
+    <name>Prince Louis</name>
+    <birthYear>2018</birthYear>
+    <parents>6</parents>
+    <children></children>
+  </person>
+  <person id="17">
+    <name>Prince Archie</name>
+    <birthYear>2019</birthYear>
+    <parents>7</parents>
+    <children></children>
+  </person>
+  <person id="18">
+    <name>Princess Lilibet</name>
+    <birthYear>2021</birthYear>
+    <parents>7</parents>
+    <children></children>
+  </person>
+  <person id="19">
+    <name>Savannah Phillips</name>
+    <birthYear>2010</birthYear>
+    <parents>8</parents>
+    <children></children>
+  </person>
+  <person id="20">
+    <name>Isla Phillips</name>
+    <birthYear>2012</birthYear>
+    <parents>8</parents>
+    <children></children>
+  </person>
+  <person id="21">
+    <name>Mia Tindall</name>
+    <birthYear>2014</birthYear>
+    <parents>9</parents>
+    <children></children>
+  </person>
+  <person id="22">
+    <name>Lena Tindall</name>
+    <birthYear>2018</birthYear>
+    <parents>9</parents>
+    <children></children>
+  </person>
+  <person id="23">
+    <name>Lucas Tindall</name>
+    <birthYear>2021</birthYear>
+    <parents>9</parents>
+    <children></children>
+  </person>
+</family>

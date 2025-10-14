@@ -1,0 +1,17 @@
+{
+  "name": "harjutus11-websockets",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-modules": "^1.0.1",
+    "ws": "^8.18.3"
+  }
+}
